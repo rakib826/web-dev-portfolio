@@ -149,6 +149,7 @@ footer{
   padding:130px 230px;
   display: flex;
   gap: 100px;
+  margin-top: 50px;
 }
 .footer-column{
   width: 50%;
